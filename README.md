@@ -10,6 +10,6 @@ into actionable insights for stakeholders
 
 ## 📫 Contact Me
 
-[`niladriislam1997@gmail.com`](mailto:niladriislam1997@gmail.com) 
+[`niladriislam1997@gmail.com`](mailto:niladriislam1997@gmail.com) | [`https://www.linkedin.com/in/nafeez-fuad-niladri-6a1447235/`](https://www.linkedin.com/in/nafeez-fuad-niladri-6a1447235/)
 
 **Let’s connect and build something awesome together!**
