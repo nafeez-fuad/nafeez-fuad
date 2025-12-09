@@ -4,8 +4,6 @@ Passionate **Network Engineer** with expertise in designing, implementing, and o
 networking protocols, security, and emerging technologies. Known for effective communication and translating complex concepts
 into actionable insights for stakeholders
 
----
-
 ## Skills
 `Network Security`, `Wireshark`, `Kali Linux`, `Arp Poisoning`, `Penetration Testing`, `Nmap`, `Nessus`, `Python`
 `Java`, `Microsoft Visio`, `C++`, `Vulnerability Assessment`, `Ethical Hacking`
